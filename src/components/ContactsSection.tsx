@@ -102,15 +102,6 @@ const ContactsSection = () => {
                 </div>
               </CardContent>
             </Card>
-            
-            <div className="bg-gradient-accent rounded-xl p-6 text-white">
-              <h3 className="text-xl font-bold mb-2">Екстрена допомога 24/7</h3>
-              <p className="mb-4">Потрібна термінова допомога на дорозі?</p>
-              <Button variant="outline" className="border-white text-white hover:bg-white hover:text-brand-orange">
-                <Phone className="h-4 w-4 mr-2" />
-                +38 (050) 911-24-24
-              </Button>
-            </div>
           </div>
         </div>
       </div>

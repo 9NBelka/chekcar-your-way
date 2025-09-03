@@ -5,6 +5,7 @@ import DiagnosticsSection from "@/components/DiagnosticsSection";
 import TestimonialsSection from "@/components/TestimonialsSection";
 import BookingSection from "@/components/BookingSection";
 import ContactsSection from "@/components/ContactsSection";
+import Footer from "@/components/Footer";
 
 const Index = () => {
   return (
@@ -18,6 +19,7 @@ const Index = () => {
         <BookingSection />
         <ContactsSection />
       </main>
+      <Footer />
     </>
   );
 };
